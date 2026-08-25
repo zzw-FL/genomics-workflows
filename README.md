@@ -1,8 +1,6 @@
-# Notion analysis workflow library
+# Genomics workflows
 
-This repository contains the genomics and bioinformatics workflows recovered
-from the Notion workspace project named `脚本`. The commands are grouped by
-functional domain, not by the original project that produced them.
+This repository contains the genomics and bioinformatics workflows.
 
 ## Important notes
 
